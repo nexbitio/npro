@@ -1,0 +1,11 @@
+{
+  "name": "npro-dax",
+  "version": "3.1.1",
+  "description": "Main lib for nPro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NEXBIT.IO",
+  "license": "MIT"
+}
